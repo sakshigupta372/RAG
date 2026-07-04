@@ -1,0 +1,11 @@
+Database Management Systems (DBMS) is software used to store, manage, and retrieve data efficiently.
+
+Common DBMS operations include Create, Read, Update, and Delete (CRUD).
+
+Relational databases store data in tables using rows and columns.
+
+SQL is the standard language used to communicate with relational databases.
+
+Indexes improve query performance by allowing faster data retrieval.
+
+Transactions ensure consistency using the ACID properties: Atomicity, Consistency, Isolation, and Durability.

@@ -1,0 +1,9 @@
+Python is a high-level, interpreted programming language known for its simplicity.
+
+Variables in Python are dynamically typed and do not require explicit declaration.
+
+Python supports multiple data types including integers, floats, strings, lists, and dictionaries.
+
+Functions in Python are defined using the def keyword and can return values.
+
+Loops in Python include for loops and while loops for repeating blocks of code.
